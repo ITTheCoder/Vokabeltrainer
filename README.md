@@ -1,1 +1,2 @@
 # Vokabeltrainer
+Vokabeltrainer für Vokabeln.
